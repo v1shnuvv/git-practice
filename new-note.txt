@@ -1,0 +1,12 @@
+cd --> change dir
+dir --> view all dir
+mkdir --> make dir
+type nul > sample.txt  --> create new txt file with empty 
+echo some text > sample.txt  --> will create sample txt file with some text or add new text if the file exist already
+notepad newfile.txt <enter>
+git status
+git add <filename> or git add . --> (<all files>)
+git commit -m "type ur msg here"
+git restore --staged <filename>
+git log
+git reset <commit id>
