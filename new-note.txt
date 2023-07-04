@@ -10,3 +10,6 @@ git commit -m "type ur msg here"
 git restore --staged <filename>
 git log
 git reset <commit id>
+git stash
+git stash pop
+git stash clear
